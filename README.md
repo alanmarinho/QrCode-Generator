@@ -10,3 +10,5 @@ As tecnologia [React](https://pt-br.reactjs.org/) e [Typescript](https://www.typ
 
 [React-icons](https://react-icons.github.io/react-icons/) para os ícones.
 
+## Disponível em: [QrCode Generator](https://alanmarinho.github.io/QrCode-Generator/)
+
